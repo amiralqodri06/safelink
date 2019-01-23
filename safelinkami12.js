@@ -58,7 +58,7 @@ if(a_to_vh==false)
 {var
 
  
-encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://amirduabelas.blogspot.com?url="+
+encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://safelinkamir-12.blogspot.com/2019/01/please-wait.html?url="+
 
  encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ 
 a_to_ve[i].href+"\n";}}
