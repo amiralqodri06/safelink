@@ -122,11 +122,11 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
+      "https://safelinkamir-12.blogspot.com/2019/01/post-1.html",
+      "https://safelinkamir-12.blogspot.com/2019/01/post-2.html",
+      "https://safelinkamir-12.blogspot.com/2019/01/post-3.html",
+      "https://safelinkamir-12.blogspot.com/2019/01/post-4.html",
+      "https://safelinkamir-12.blogspot.com/2019/01/post-5.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
