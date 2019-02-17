@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/01/here-are-10-types-of-medicinal-plants.html"}
-if(x=="2"){xxx="/2019/01/7-this-natural-way-is-effective-in.html"}
-if(x=="3"){xxx="/2019/01/here-are-10-ways-to-increase-iq.html"}
-if(x=="4"){xxx="/2019/01/7-these-ways-are-proven-powerful-to-get.html"}
-if(x=="5"){xxx="/2019/01/6-fruits-that-have-more-benefits-for.html"}a_to_ve[i].href="https://safelinkamir-12.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/02/here-are-some-file-hosting-that-i.html"}
+if(x=="2"){xxx="/2019/02/construct-2-articles.html"}
+if(x=="3"){xxx="/2019/02/technology.html"}
+if(x=="4"){xxx="/2019/02/its-useless-to-have-knowledge-but-not.html"}
+if(x=="5"){xxx="/2019/02/lazy.html"}a_to_ve[i].href="https://safelinkamir-12.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
